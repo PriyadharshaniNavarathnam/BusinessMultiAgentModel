@@ -1,0 +1,31 @@
+# Core
+pandas
+numpy
+
+# For visualization & debugging
+matplotlib
+seaborn
+
+# For dataset handling (Kaggle API wrapper)
+kagglehub
+
+# For NLP/LLM pipeline
+scikit-learn
+langchain
+openai   # (or groq, anthropic if you want other LLM providers)
+
+# Optional: fast text preprocessing
+nltk
+spacy
+
+# For notebook experiments
+jupyter
+
+fastapi
+uvicorn
+python-dotenv
+requests
+sentence-transformers
+pinecone-client
+pydantic
+tqdm
